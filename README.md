@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### I am a passionate engineer who likes to explore the world of architecture & technology. I explore latest trends in industry and give my views and showcase my demos on emerging trends.
 
-## I architect large scale enterprise automation platform based on cloud native technologies. I focus on architecture, design & technologies for web, desktop and AI based application platforms. I like to explore on application layer, middleware, integration, automation, artificial intelligence, security and performance.
+### I architect large scale enterprise automation platform based on cloud native technologies. I focus on architecture, design & technologies for web, desktop and AI based application platforms. I like to explore on application layer, middleware, integration, automation, artificial intelligence, security and performance.
 
-## Some of the topics that I like to explore are
+### Some of the topics that I like to explore are
  - enterprise architectures
  - design patterns
  - azure
