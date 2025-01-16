@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 
 # About Me
 
-### I am a passionate engineer who likes to explore the world of architecture & technology. I explore latest trends in industry and give my views and showcase my demos on emerging trends.
+### I am a passionate engineer who loves to delve into the world of architecture and technology. I stay on top of the latest industry trends, sharing my insights and showcasing demos on emerging trends & innovations.
 
-### I architect large scale enterprise automation platform based on cloud native technologies. I focus on architecture, design & technologies for web, desktop and AI based application platforms. I like to explore on application layer, middleware, integration, automation, artificial intelligence, security and performance.
+### I architect large-scale enterprise automation platforms using cloud-native technologies. My focus spans architecture, design, and technologies for web, desktop, and AI-based application platforms. I enjoy exploring the application layer, middleware, integration, automation, artificial intelligence, security, and performance aspect of system.
 
-### Some of the topics that I like to explore are
- - enterprise architectures
- - design patterns
- - azure
- - angular
- - micro services
- - micro frontends
- - llm
- - agents, **ai agents**, security, performance. I often work and share my perspective on these topics.
+### Some of the topics I like to explore and share my perspective on include:
+ - Enterprise architectures
+ - Design patterns
+ - Azure
+ - Angular
+ - Microservices
+ - Micro frontends
+ - LLM agents
+ - AI agents
+ - Security
+ - Performance
 
-#### You can contact me at
+#### Feel free to reach out to me at
 
 [LinkedIn](https://www.linkedin.com/in/pravinchandankhede/)
 
