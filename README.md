@@ -15,9 +15,19 @@ Here are some ideas to get you started:
 
 # About Me
 
-### I am software engineer by profession and like to work on variety of architectures, designs and technology. I architect large scale enterprise platform and often keeps on exploring new horizon of technology.
+### I am a passionate engineer who likes to explore the world of architecture & technology. I explore latest trends in industry and give my views and showcase my demos on emerging trends.
 
-I am passionate about topics like **enterprise architectures**, design patterns, azure, angular, micro services, micro frontends, llm, agents, **ai agents**, security, performance. I often work and share my perspective on these topics.
+## I architect large scale enterprise automation platform based on cloud native technologies. I focus on architecture, design & technologies for web, desktop and AI based application platforms. I like to explore on application layer, middleware, integration, automation, artificial intelligence, security and performance.
+
+## Some of the topics that I like to explore are
+ - enterprise architectures
+ - design patterns
+ - azure
+ - angular
+ - micro services
+ - micro frontends
+ - llm
+ - agents, **ai agents**, security, performance. I often work and share my perspective on these topics.
 
 #### You can contact me at
 
