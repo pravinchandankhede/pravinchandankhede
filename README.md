@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### I am software engineer by profession and like to work on variety of architectures, designs and technology. I architect large scale enterprise platform and often keeps on exploring new horizon of technology.
 
+I am passionate about topics like **enterprise architectures**, design patterns, azure, angular, micro services, micro frontends, llm, agents, **ai agents**, security, performance. I often work and share my perspective on these topics.
+
 #### You can contact me at
 
 [LinkedIn](https://www.linkedin.com/in/pravinchandankhede/)
