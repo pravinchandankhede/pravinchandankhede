@@ -21,26 +21,8 @@ I architect large-scale enterprise automation platforms using cloud-native techn
 
 #### Some of the topics I like to explore and share my perspective on include:
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 200px;">
-    <ul>
-      <li>Enterprise architectures</li>
-      <li>Design patterns</li>
-      <li>Azure</li>
-      <li>Angular</li>
-      <li>Microservices</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 200px;">
-    <ul>
-      <li>Micro frontends</li>
-      <li>LLM agents</li>
-      <li>AI agents</li>
-      <li>Security</li>
-      <li>Performance</li>
-    </ul>
-  </div>
-</div>
+
+| **Enterprise architectures** | **Design patterns** | **Azure** | **Angular** | **Microservices** | **Micro Frontends** | **LLM Agents** | **AI Agents** | **Security** | **Performance** | 
 
 #### Feel free to reach out to me at
 
