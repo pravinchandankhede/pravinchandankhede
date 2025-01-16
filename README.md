@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 
 #### Some of the topics I like to explore and share my perspective on include:
 | Enterprise architectures | Design patterns | Azure          |
+|-------------------------------------------------------------|
 | Angular                  | Microservices   | Micro Frontends|
-| LLM agents               | AI agents       | Security       |
+| LLM Agents               | AI agents       | Security       |
 | Performance              |                 |                |
 
 #### Feel free to reach out to me at
 
 [LinkedIn](https://www.linkedin.com/in/pravinchandankhede/)
+[Blog](https://pravinchandankhede.github.io/)
