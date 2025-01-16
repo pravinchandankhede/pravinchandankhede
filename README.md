@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # About Me
 
-### I am a passionate engineer who loves to delve into the world of architecture and technology. I stay on top of the latest industry trends, sharing my insights and showcasing demos on emerging trends & innovations.
+#### I am a passionate engineer who loves to delve into the world of architecture and technology. I stay on top of the latest industry trends, sharing my insights and showcasing demos on emerging trends & innovations.
 
-### I architect large-scale enterprise automation platforms using cloud-native technologies. My focus spans architecture, design, and technologies for web, desktop, and AI-based application platforms. I enjoy exploring the application layer, middleware, integration, automation, artificial intelligence, security, and performance aspect of system.
+##### I architect large-scale enterprise automation platforms using cloud-native technologies. My focus spans architecture, design, and technologies for web, desktop, and AI-based application platforms. I enjoy exploring the application layer, middleware, integration, automation, artificial intelligence, security, and performance aspect of system.
 
-### Some of the topics I like to explore and share my perspective on include:
+#### Some of the topics I like to explore and share my perspective on include:
  - Enterprise architectures
  - Design patterns
  - Azure
