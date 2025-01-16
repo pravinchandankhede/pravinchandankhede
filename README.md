@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pravinchandankhede/pravinchandankhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+### I am software engineer by profession and like to work on variety of architectures, designs and technology. I architect large scale enterprise platform and often keeps on exploring new horizon of technology.
+
+#### You can contact me at
+
+[LinkedIn](https://www.linkedin.com/in/pravinchandankhede/)
+
+
