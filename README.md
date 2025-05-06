@@ -28,3 +28,4 @@ I architect large-scale enterprise automation platforms using cloud-native techn
 
  [LinkedIn](https://www.linkedin.com/in/pravinchandankhede/)  
  [Blog](https://pravinchandankhede.github.io/)
+ [Blog](https://pravinchandankhede.wordpress.com/)
