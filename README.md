@@ -22,7 +22,7 @@ I architect large-scale enterprise automation platforms using cloud-native techn
 #### Some of the topics I like to explore and share my perspective on include:
 
 
-| **Enterprise architecture** | **Design patterns** | **Azure** | **Angular** | **Microservices** | **Serverless** | **Micro Frontends** | **LLM** | **LLM Agents** | **AI Agents** | **Security** | **Performance** | 
+| **Enterprise Architecture** | **Design Patterns** | **Azure** | **Angular** | **Microservices** | **Serverless** | **Micro Frontends** | **LLM** | **LLM Agents** | **AI Agents** | **Security** | **Performance** | 
 
 #### Feel free to reach out to me at
 
